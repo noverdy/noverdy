@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Welcome to my GitHub profile! I'm Noverdi, a full stack developer passionate about building robust and scalable web applications.<br>I believe in the power of technology to solve real-world problems and constantly strive to create innovative solutions.
 
 
@@ -12,23 +12,20 @@ Welcome to my GitHub profile! I'm Noverdi, a full stack developer passionate abo
 
 <p align="left">
   <a href="https://github.com/noverdy">
-    <img height="107em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img height="107em" src="https://github-readme-streak-stats.herokuapp.com/?user=noverdy&theme=tokyonight&hide_border=false"/>
-    <img height="107em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=noverdy&theme=tokyonight&hide_border=false"/>
+  </a>
+  <a href="https://github.com/noverdy">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="160em" src="https://github-contributor-stats.vercel.app/api?username=noverdy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noverdy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=noverdy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noverdy&icon=0&color=0)](https://visitcount.itsvg.in)
