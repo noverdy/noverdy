@@ -10,9 +10,11 @@ Welcome to my GitHub profile! I'm Noverdi, a full stack developer passionate abo
 
 # 📊 GitHub Stats:
 
-<img height="107em" src="https://github-readme-stats.vercel.app/api?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="107em" src="https://github-readme-streak-stats.herokuapp.com/?user=noverdy&theme=tokyonight&hide_border=false"/>
-<img height="107em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<a>
+  <img height="107em" src="https://github-readme-stats.vercel.app/api?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="107em" src="https://github-readme-streak-stats.herokuapp.com/?user=noverdy&theme=tokyonight&hide_border=false"/>
+  <img height="107em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noverdy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noverdy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
