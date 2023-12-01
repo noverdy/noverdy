@@ -1,4 +1,4 @@
-# About Me
+# 👋 Hi!
 Welcome to my GitHub profile! I'm Noverdi, a cyber security enthusiast that's currently focusing on penetration testing and red-teaming. I also like to work on projects as a full-stack developer.
 
 ## Tech Stack
