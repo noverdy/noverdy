@@ -13,7 +13,7 @@ Penetration tester. I do web and API pentests and bug bounty, and I build the to
 
 - **[cosmos-labs](https://github.com/noverdy/cosmos-labs)**: four Dockerised labs (JWT, SQL injection, LFI, XSS) built for the COSMOS security workshop.
 - **[yet-another-sqli-lab](https://github.com/noverdy/yet-another-sqli-lab)**: error-based blind SQL injection under a time limit, where only efficient automation wins.
-- **[ctf-challenges](https://github.com/noverdy/ctf-challenges)**: challenges I wrote for COSMOS 2023 and Codex 2023.
+- **[ctf-challenges](https://github.com/noverdy/ctf-challenges)**: challenges I wrote for COSMOS 2023, Codex 2023 and IDSECCONF 2024.
 
 ## Elsewhere
 
